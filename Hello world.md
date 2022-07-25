@@ -1,3 +1,5 @@
 # Hello
 
-I like ti study!
+I like to study!
+
+new info
